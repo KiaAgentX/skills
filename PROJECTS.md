@@ -1,7 +1,7 @@
 # PROJECTS.md — 59 Projects to Skill Modules
 
 Auto-generated map: every shipped project traced to the skill module it feeds.
-Shipped value: $462,000 · 59 projects · all previews live.
+Shipped value: $470,500 · 60 projects · all previews live.
 
 | Project | Category | Skill module | Est. value | Status | Preview |
 |---|---|---|---|---|---|
@@ -64,9 +64,10 @@ Shipped value: $462,000 · 59 projects · all previews live.
 | [Trading God Arena v10](https://kiaagentx.github.io/portfolio/projects/trading-god-arena/) | Trading & Fintech | trading-quant | $6,500 | stable | — |
 | [9Router Guide](https://kiaagentx.github.io/portfolio/projects/guide-9router/) | Learning & Content | brand-content | $1,500 | stable | — |
 | [DropRail Railway Guide](https://kiaagentx.github.io/portfolio/projects/guide-railway/) | Learning & Content | brand-content | $1,500 | stable | — |
+| [Neon Apple](https://kiaagentx.github.io/portfolio/projects/neon-apple/) | Web & Brand Experiences | brand-content | $8,500 | stable | — |
 
 ## Module distribution
-- `brand-content`: 10 projects
+- `brand-content`: 11 projects
 - `trading-quant`: 10 projects
 - `web3d-gpu`: 9 projects
 - `ai-agents`: 8 projects
