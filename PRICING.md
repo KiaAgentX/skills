@@ -119,3 +119,15 @@ and depth (single module vs. full platform). Anchors come from the 59 shipped pr
 3. Every quote lists deliverables, acceptance criteria (from AGENTS.md), and the source projects
    from `PROJECTS.md` proving the capability exists.
 4. Roadmap projects (portfolio `Roadmap` section) are quoted at their published estimate Â±15%.
+
+## 11. procedural-canvas-game — Procedural Canvas Experiences
+
+| Deliverable | Includes | Price |
+|---|---|---|
+| Interactive canvas scene | Noise/FBM water & sky, bezier hero paths, particle pools, procedural audio | $2,500 – $5,000 |
+| Full single-file game | Loop, HUD, achievements, i18n (13 langs), device caps, 60fps budget | $5,000 – $12,000 |
+
+*Anchor: FISHKAL Deep Catch single-file edition (113 render/game functions, zero assets).*
+
+---
+Updated: 2026-10-04 — includes the procedural-canvas-game module extracted from FISHKAL Deep Catch.

@@ -1,9 +1,9 @@
-# Kia — Skills & Soul
+﻿# Kia — Skills & Soul
 
 > Give this repository's address to any agent, and it becomes **100% custom to Kia's knowledge** —
-> 59 production projects distilled into reusable skill modules, plus the personality that built them.
+> 60 production projects distilled into reusable skill modules, plus the personality that built them.
 
-**Owner:** Kia (KiaAgentX / ImXforever) · **License:** MIT · **Count:** 59 projects · **Shipped value:** $462,000+
+**Owner:** Kia (KiaAgentX / ImXforever) · **License:** MIT · **Count:** 60 projects · **Shipped value:** $470,500+ · **Triangulated fair value:** ≈ $758,565 (see portfolio `VALUATION.md`)
 
 ## How an agent should consume this repo
 
@@ -29,6 +29,7 @@ For any other agent: paste `SOUL.md` as system context, then load modules on dem
 | 8 | [`devtools-internal`](skills/devtools-internal/SKILL.md) | Internal tools, valuation dashboards, prompt studios (SC Studio, Valuation, Neon tools) | $3,500 – $9,000 |
 | 9 | [`infra-deploy`](skills/infra-deploy/SKILL.md) | Docker/Railway/CI pipelines, bots deployment, zero-downtime releases | $2,000 – $8,000 |
 | 10 | [`product-strategy`](skills/product-strategy/SKILL.md) | The 8 Laws, staircase versioning, roadmap & architecture documents | $1,000 – $3,000 / doc |
+| 11 | [procedural-canvas-game](skills/procedural-canvas-game/SKILL.md) | Fully procedural canvas games & interactive scenes (FISHKAL Deep Catch: 113 render fns, 13 languages, zero assets) | .5K –  |
 
 ## Files
 
@@ -38,7 +39,7 @@ For any other agent: paste `SOUL.md` as system context, then load modules on dem
 | `AGENTS.md` | Operating contract for any agent consuming this knowledge |
 | `PRICING.md` | Itemized pricing per module and per deliverable |
 | `PROJECTS.md` | All 59 projects mapped to modules (auto-generated) |
-| `skills/*/SKILL.md` | Ten skill modules with workflows, patterns, quality bars |
+| `skills/*/SKILL.md` | Eleven skill modules with workflows, patterns, quality bars |
 
 ## Source
 
